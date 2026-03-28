@@ -1,0 +1,8 @@
+node_modules/
+pesaskill/backend/node_modules/
+pesaskill/frontend/node_modules/
+pesaskill/frontend/dist/
+pesaskill/backend/.env
+*.log
+.DS_Store
+Thumbs.db
